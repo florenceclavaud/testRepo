@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+# ICA EGAD Records in Contexts-Ontology (RiC-O) GitHub repository web pages
 
-A link to the events page: [events on RiC and RiC-O](events.html).
+This is **the official website on ICA-EGAD Records in Contexts-Ontology (RiC-O)**. It displays in HTML the text documentation that was prepared about the ontology and whose sources are in the GitHub repository. It also provides useful links to the other contents of this repository.
+
+## Table of contents
+* about RiC-O (a quick introduction and the key links)
+* next steps (an overview of the current roadmap and schedule for 2020)
+* examples (a list of the example files available in the GitHub repo)
+* diagrams (a list of the diagrams available in the repo)
+* [events](events.html) (a list of past and coming events on RiC, and particularly on RiC-O: conferences and workshops)
+* projects and tools (a list)
+
 
 You can use the [editor on GitHub](https://github.com/florenceclavaud/testRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
