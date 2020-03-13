@@ -7,3 +7,7 @@ The following is a list of past and future events on RiC-O, from the end of 2019
 *  There will be other events on RiC-O in France in 2020.
 
 
+
+**Back to the main page** (TODO provide the right link)
+
+
