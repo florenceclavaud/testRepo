@@ -2,8 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-wrapper {
-width:900px;}
+
+
+.wrapper {
+width:100%;
+margin:50px;
+}
 
 section {
 width:600px;
@@ -14,12 +18,11 @@ p {
 text-align:justify;
 }
 
-footer {
+footer p {
 text-align:left;
 }
 
 img {
 display:inline;
-width:80px;
-height:auto;
+
 }
