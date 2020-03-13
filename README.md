@@ -7,8 +7,8 @@ This is **the official website on ICA EGAD Records in Contexts-Ontology (ICA RiC
 * next steps (an overview of the current roadmap and schedule for 2020)
 * examples (an overview of the example files available in the GitHub repo)
 * diagrams (an overview of the diagrams available in the repo)
-* [events](events.html) (past and coming events, like conferences and workshops, on RiC, and particularly on RiC-O)
-* projects and tools (a list)
+* [events and presentations](events.html) (past and coming events, like conferences and workshops and presentations, on RiC, and particularly on RiC-O)
+* [projects and tools](projects-and-tools.html) (a list)
 
 
 You can use the [editor on GitHub](https://github.com/florenceclavaud/testRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
