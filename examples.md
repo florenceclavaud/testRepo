@@ -2,7 +2,8 @@
 
 The RiC-O GitHub repository includes some example (TODO LINK to the giTHUb folder) files. 
 
-For now, they consist of existing, "real world", archival metadata sets (all of them being EAD and EAC-CPF files), and their RDF/RiC-O version. All have been prepared by ICA EGAD.
+For now, they consist of existing, "real world", archival metadata sets (all of them being EAD and EAC-CPF files), and their RDF/RiC-O version. All have been prepared by ICA EGAD. 
+
 
 They come along with:
 
