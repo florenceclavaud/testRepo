@@ -1,4 +1,4 @@
-# ![ICA-EGAD logo](images/ICA_Logo_ExpertGroups_EGAD_small.png) ICA EGAD Records in Contexts-Ontology (RiC-O)\GitHub repository web pages
+# ![ICA-EGAD logo](images/ICA_Logo_ExpertGroups_EGAD_small.png) ICA EGAD Records in Contexts-Ontology (RiC-O)<br>GitHub repository web pages
 
 This is **the official website on ICA EGAD Records in Contexts-Ontology (ICA RiC-O)**. It is an HTML version of the documentation that was prepared about the ontology and whose sources are in the GitHub repository (TODO add link). It also provides useful links to the other contents of this repository.
 
