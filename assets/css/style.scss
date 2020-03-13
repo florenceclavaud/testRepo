@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+wrapper {
+width:900px;}
+
 section {
 width:600px;
 }
@@ -9,4 +12,14 @@ width:600px;
 p {
 
 text-align:justify;
+}
+
+footer {
+text-align:left;
+}
+
+img {
+display:inline;
+width:80px;
+height:auto;
 }
