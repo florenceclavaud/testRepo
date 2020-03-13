@@ -3,7 +3,7 @@
 If you would like us to add an item in the lists below, about your projects and tools, please contact us ([egad at ica.org](mailto:egad@ica.org))!
 
 
-## RiC-O on use
+## Projects using RiC-O
 
 
 * A few words on **SNAC** here (Daniel)?

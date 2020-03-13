@@ -12,7 +12,7 @@ The global schedule is the following:
 The following is a non exhaustive list of topics, tasks and known issues on which EGAD RiC-O development team will work in the next months, after having released RiC-O v0.2:
 
 * adding examples and diagrams to RiC-O internal documentation;
-* defining more accurately some properties (as transitive, functional, inverse functional);possibly adding some transitive properties;
+* defining more accurately some properties (as transitive, functional, inverse functional...); possibly adding some transitive properties;
 * finishing the system of relations (where some subclasses are still missing);
 * assessing, and probably changing in some cases, the tense of the verbs in some object properties (e.g. for the properties that correspond to some RiC-CM relations);
 * articulating the Event and Activity classes, and the Relation system of classes;
