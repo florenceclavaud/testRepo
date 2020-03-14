@@ -36,8 +36,13 @@ display:inline;
 
 section  ul:first-of-type {
 list-style-type: none;
+margin:0;
 }
 
 section ul:first-of-type li {
 display: inline;
+}
+
+section ul:first-of-type li::after {
+ content: " | ";
 }
