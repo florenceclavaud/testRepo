@@ -23,5 +23,3 @@ They come along with:
 
 
 If you have some, or would like to discuss testing RiC-O on a small subset of your own archival metadata and give free access to the outcomes, contact us ([egad at ica.org](mailto:egad@ica.org))!
-
-**Back to the main page** (TODO provide the right link)

@@ -25,5 +25,3 @@ If you would like us to add an item in the lists below, about your projects and 
 
 * The Archives nationales de France (ANF) and a small private company ([Sparna](http://www.sparna.fr/)) have developed a free software, **RiC-O Converter**, for converting into RDF datasets conforming to RiC-O v0.1 the whole of the ANF EAD 2002 findings aids (about 28.000 XML files for now) and EAC-CPF authority records (about 15.000 XML files for now). This tool is easy to install and use, fast and efficient. Its source code and documentation will soon be released on GitHub. Meanwhile, you can access download the presentation on RiC-O Converter done on January 28, 2020, [here](https://f.hypotheses.org/wp-content/blogs.dir/2167/files/2020/02/20200128_4_RiCOConverter.pdf).
 
-
-**Back to the main page** (TODO provide the right link)

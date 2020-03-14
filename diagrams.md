@@ -20,6 +20,4 @@ All of them for now have been designed using [Draw.io](https://www.draw.io/), a 
 
 If you have some diagrams and would like to share them, just contact us ([egad at ica.org](mailto:egad@ica.org))! We can either list them in this web page and provide a link to your own project or institution repository, or include these diagrams into the GitHub RiC-O repository.
 
-**Back to the main page** (TODO provide the right link)
-
 

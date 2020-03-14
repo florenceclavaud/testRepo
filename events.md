@@ -18,6 +18,4 @@ The following is a list of past and future events on RiC-O, from the end of 2019
 
 
 
-**Back to the main page** (TODO provide the right link)
-
 
