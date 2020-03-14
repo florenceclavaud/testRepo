@@ -34,15 +34,15 @@ display:inline;
 
 }
 
-section  ul:first-of-type {
+h1+ul {
 list-style-type: none;
 margin:0;
 }
 
-section ul:first-of-type li {
+h1+ul li {
 display: inline;
 }
 
-section ul:first-of-type li::after {
+h1+ul li::after {
  content: " | ";
 }
