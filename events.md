@@ -1,5 +1,15 @@
 # Events and presentations on RiC-O
 
+
+* [Home](index.html)
+* [About RiC-O](about.html)
+* [Next steps](next-steps.html)
+* [Diagrams](diagrams.html)
+* [Examples](examples.html)
+* **Events and presentations**
+* [Projects and tools](projects-and-tools.html)
+
+
 The following is a list of past and future events on RiC-O, from the end of 2019, and of presentations on RiC-O v0.1 that are now available online.
 
 * On **November 22, 2019**, the Adochs project organised an **[international study day on Linked Data](http://adochs.be/linking/)** at KBR (the Royal Library of **Belgium**). While morning presentations tackled new models, those of afternoon presented several case studies on publishing archival data as Linked Data. The first presentation on RiC-CM v0.2 and RiC-O v0.1 took place there. The [slides on RiC, written in English](http://adochs.be/wp-content/uploads/2020/01/LinkingThePast_Brussels_20191122_RecordsInContexts.pdf), are less detailed about the standard than the ones mentioned below; however they include some information about the projects lead by the Archives nationales de France.

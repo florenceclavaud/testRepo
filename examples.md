@@ -1,5 +1,14 @@
 # RiC-O examples
 
+* [Home](index.html)
+* [About RiC-O](about.html)
+* [Next steps](next-steps.html)
+* [Diagrams](diagrams.html)
+* **Examples**
+* [Events and presentations](events.html)
+* [Projects and tools](projects-and-tools.html)
+
+
 The RiC-O GitHub repository includes some example files (TODO LINK to the giTHUb folder). 
 
 For now, they consist of existing, "real world", archival metadata sets (all of them being EAD and EAC-CPF files), and their RDF/RiC-O version. All have been prepared by ICA EGAD. 

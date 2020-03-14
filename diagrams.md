@@ -1,5 +1,13 @@
 # Diagrams on RiC-O
 
+* [Home](index.html)
+* [About RiC-O](about.html)
+* [Next steps](next-steps.html)
+* **Diagrams**
+* [Examples](examples.html)
+* [Events and presentations](events.html)
+* [Projects and tools](projects-and-tools.html)
+
 EGAD has begun to draw some diagrams, hoping that they can help understanding RiC-O as a domain ontology.
 
 You can find them here (TODO LINK to the ad hoc folder in the repo).

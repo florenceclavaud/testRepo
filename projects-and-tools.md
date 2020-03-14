@@ -1,5 +1,13 @@
 # RiC-O projects and tools
 
+* [Home](index.html)
+* [About RiC-O](about.html)
+* [Next steps](next-steps.html)
+* [Diagrams](diagrams.html)
+* [Examples](examples.html)
+* [Events and presentations](events.html)
+* **Projects and tools**
+
 If you would like us to add an item in the lists below, about your projects and tools, please contact us ([egad at ica.org](mailto:egad@ica.org))!
 
 
