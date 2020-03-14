@@ -1,4 +1,4 @@
-# ![ICA-EGAD logo](images/ICA_Logo_ExpertGroups_EGAD_small.png) ICA EGAD Records in Contexts-Ontology (RiC-O)<br>GitHub repository web pages
+# ![ICA-EGAD logo](images/ICA_Logo_ExpertGroups_EGAD_small.png) ICA EGAD Records in Contexts-Ontology (RiC-O) GitHub repository web pages
 
 
 * **Home**
