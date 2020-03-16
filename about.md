@@ -19,16 +19,16 @@ RiC-O provides a generic vocabulary and formal rules for creating RDF datasets (
 
 Records in Contexts standard is developed by [International Council on Archives Expert Group on Archival Description (ICA EGAD)](https://www.ica.org/en/egad-steering-committee-0).
 
-The **latest public release of RiC-O, RiC-O v0.1**, was published on December 2019. It is fully documented and Englsh and available here: [https://www.ica.org/standards/RiC/ontology](https://www.ica.org/standards/RiC/ontology).
+The **latest public release of RiC-O, RiC-O v0.1**, was published on December 2019. It is fully documented in English and available here: [https://www.ica.org/standards/RiC/ontology](https://www.ica.org/standards/RiC/ontology).
 
-The **latest public release of Records in Contexts-Conceptual Model (RiC-CM)**, on which RiC-O is based, is RiC-CM v0.2 preview. It was published in December 2029. It is available here: [https://www.ica.org/sites/default/files/ric-cm-0.2_preview.pdf](https://www.ica.org/sites/default/files/ric-cm-0.2_preview.pdf).
+The **latest public release of Records in Contexts-Conceptual Model (RiC-CM)**, on which RiC-O is based, is RiC-CM v0.2 preview. It was published in December 2019. It is available here: [https://www.ica.org/sites/default/files/ric-cm-0.2_preview.pdf](https://www.ica.org/sites/default/files/ric-cm-0.2_preview.pdf).
 
 RiC-O v0.1 is compliant with RiC-CM v0.2 preview.
 
-RiC-O sources are available on GitHub here, along with some [examples](examples.html) and [diagrams](diagrams.html): (TODO add a link). You will find there the latest version of RiC-O. We plan to release RiC-O v0.2 this spring (see also [Next steps](nexts-steps.html)).
+RiC-O sources are available on GitHub here, along with some [examples](examples.html) and [diagrams](diagrams.html): (TODO add a link). You will find there the latest version of RiC-O. We plan to release RiC-O v0.2 this spring (see also [Next steps](next-steps.html)).
 
 If you want to get the latests news on RiC-O, this website is the place where you can find them! You can also get the main information from [the ICA website](https://www.ica.org/en).
 
 If you want to contact us, or send comments and questions, use either ([egad at ica.org mailbox](mailto:egad@ica.org), or RiC-O users discussion list (if you want to subscribe to this list, simply email to Florence Clavaud (florence.clavaud@culture.gouv.fr).
 
-## The reasons why you should have a look at RiC-O and more" (from Tobias's email to TNA)
+## The reasons why you should have a look at RiC-O, and more (from Tobias's email to TNA)
