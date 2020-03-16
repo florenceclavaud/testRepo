@@ -10,7 +10,9 @@
 
 The following is an overview of RiC-O roadmap and schedule for 2020.
 
-Of course, the schedule also depends on RiC-O users, of their comments, expectations and proposals. In short, it depends on you! Now you can create issues, and also fork and make pull requests. You can also simply contact us and send comments and questions, using either ([egad at ica.org mailbox](mailto:egad@ica.org), or RiC-O users discussion list (if you want to subscribe to this list, simply email to Florence Clavaud (florence.clavaud@culture.gouv.fr).
+Of course, the schedule also depends on RiC-O users, on their comments, expectations and proposals. RiC-O users now can create issues, and also fork the repository and create pull requests from a fork. 
+
+You can also simply contact us and send comments and questions, using either ([egad at ica.org mailbox](mailto:egad@ica.org), or RiC-O users discussion list (if you want to subscribe to this list, simply email to Florence Clavaud (florence.clavaud@culture.gouv.fr).
 
 The global schedule is the following:
 
