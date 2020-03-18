@@ -27,5 +27,6 @@ The following is a non exhaustive list of topics, tasks and known issues on whic
 * assessing, and probably changing in some cases, the tense of the verbs in some object properties (e.g. for the properties that correspond to some RiC-CM relations);
 * articulating the Event and Activity classes, and the Relation system of classes;
 * improving the names of the object properties;
+* providing mappings between the components of RiC-O, and the components of the EAD and EAC-CPF XML schemata that archivists use for producing or exchanging finding aids and authority records conforming to the ICA previous standards (ISAD(G) and ISAAR(CPF);
 * adding suggestions of mappings (in rico:closeTo) and OWL equivalences between some classes or properties and components in other models (among which - this is not an exhaustive list- CIDOC-CRM, IFLA-LRM, PREMIS, PROV-O, and Schema.org.
 
