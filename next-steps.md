@@ -2,6 +2,7 @@
 
 * [Home](index.html)
 * [About RiC-O](about.html)
+* [Why use RiC-O?](why-use-RiC-O.html)
 * **Next steps**
 * [Diagrams](diagrams.html)
 * [Examples](examples.html)

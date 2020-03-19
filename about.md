@@ -3,13 +3,12 @@
 
 * [Home](index.html)
 * **About RiC-O**
+* [Why use RiC-O?](why-use-RiC-O.html)
 * [Next steps](next-steps.html)
 * [Diagrams](diagrams.html)
 * [Examples](examples.html)
 * [Events and presentations](events.html)
 * [Projects and tools](projects-and-tools.html)
-
-## RiC-O in a few words
 
 RiC-O (Records in Contexts-Ontology) is **an OWL 2 ontology for describing archival record resources**. As **the second part of Records in Contexts (RiC) standard**, it is a formal representation of Records in Contexts Conceptual Model (RiC-CM).
 
@@ -31,4 +30,3 @@ If you want to get the latests news on RiC-O, this website is the place where yo
 
 If you want to contact us, or send comments and questions, use either ([egad at ica.org mailbox](mailto:egad@ica.org), or RiC-O users discussion list (if you want to subscribe to this list, simply email to Florence Clavaud (florence.clavaud@culture.gouv.fr).
 
-## The reasons why you should have a look at RiC-O, and more (from Tobias's email to TNA)
