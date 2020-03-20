@@ -19,7 +19,7 @@ They come along with:
 
 * a few introductory notes for each set (in Readme files), including some warnings on the fact that the files are not to be considered uptodate nor representative
 * a CC BY 4.0 license
-* some additional files: screenshots of some parts of the graphs obtained, examples of SPARQL queries you can use on these RDF datasets.
+* some additional files, e.g. screenshots of some parts of the graphs obtained, examples of SPARQL queries you can use on these RDF datasets.
 
 
 
