@@ -1,1 +1,3 @@
-# this is a test branch. File updated.
+
+# testRepo
+This is just a personal repo for testing some GitHub features
